@@ -17,7 +17,6 @@ body {
   font-size: 18px;
   color: white;
   display:block;
-  color: white;
 }
 
 .main h2 {
@@ -46,7 +45,4 @@ p {
   color: white;
   background-color: dimgray;
   text-align: left;
-}
-.footer li {
-  display:inline-block;
 }
