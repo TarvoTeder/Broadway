@@ -5,6 +5,7 @@ body {
 
 .navbar {
   background-image: url('../images/the-flatiron-building.png');
+  background-size: cover;
 }
 
 .navbar h1 {
@@ -42,6 +43,7 @@ p {
   font-size: 23px;
   font-weight: bold;
   background-image: url('../images/the-flatiron-building.png');
+  background-size: cover;
 }
 
 .footer {
